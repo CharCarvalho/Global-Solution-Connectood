@@ -16,3 +16,5 @@ A luta contra a fome é urgente, com mais de 690 milhões de pessoas sofrendo co
 Ao fortalecer os laços entre feirantes e suas comunidades, o Connectood cria um impacto social e comunitário significativo. A doação de alimentos promove a coesão social, a inclusão e a mitigação da fome. Ao se juntar ao Connectood, você estará contribuindo para construir um futuro mais justo e sustentável para todos.
 
 O Connectood é mais do que apenas uma plataforma, é uma iniciativa transformadora. Ao conectar feirantes e instituições em uma parceria poderosa, estamos caminhando em direção ao Objetivo 2 de Desenvolvimento Sustentável da ONU: "Fome Zero e Agricultura Sustentável". Junte-se a nós nessa jornada para alimentar corações e mentes, construindo um mundo onde todos os alimentos excedentes sejam um tesouro para aqueles que mais precisam.
+
+Link Repositório: https://github.com/CharCarvalho/Global-Solution-Connectood.git
